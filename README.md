@@ -1,2 +1,34 @@
-# list-problems-solutions
-Kumpulan Soal Pemrograman dan Solusinya Boyolali Dev
+# 📝 Kumpulan Soal Boyolali Dev
+
+Ini adalah repository berisi kumpulan soal harian yang dibagikan dalam komunitas Boyolali Dev. Setiap harinya, satu soal LeetCode dikirimkan untuk dikerjakan bersama. Di sini kamu bisa melihat dokumentasi soal per hari beserta link soal dan solusi dari para anggota.
+
+## 📅 Rekap Harian
+
+Week 1
+| Day | Tanggal | Link Soal | Link Jawaban |
+| --- | ------------ | ------------------------------------------------- | ----------------------------- |
+| 1 | 10 Juli 2025 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Jawaban](./solutions/day-01) |
+
+> 📌 _Catatan: Tulisannya bisa disesuaikan jika ada variasi bahasa (JS, TS, Python, dll). Struktur folder disarankan `solutions/day-XX/namasoal.ext`._
+
+## 📂 Struktur Direktori
+
+```
+├── solutions/
+├──── day-01/
+├──── day-02/
+├──── day-03/
+├──── day-04/
+├──── day-05/
+└── README.md
+```
+
+## 🤝 Kontribusi
+
+1. Fork repo ini
+2. Tambahkan file jawabanmu di folder sesuai hari dengan format `day-xx[namamu].ext`
+3. Pull request dengan format: `add solution day-XX by [namamu]`
+
+---
+
+Semangat terus ngoding bareng! 🚀
