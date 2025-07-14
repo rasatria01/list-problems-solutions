@@ -7,7 +7,7 @@ Ini adalah repository berisi kumpulan soal harian yang dibagikan dalam komunitas
 Week 1
 | Day | Tanggal | Link Soal | Link Jawaban |
 | --- | ------------ | ------------------------------------------------- | ----------------------------- |
-| 1 | 14 Juli 2025 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Jawaban](./solutions/day-01) |
+| 1 | 14 Juli 2025 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Jawaban](./solutions/day-01) |
 
 > 📌 _Catatan: Tulisannya bisa disesuaikan jika ada variasi bahasa (JS, TS, Python, dll). Struktur folder disarankan `solutions/day-XX/namasoal.ext`._
 
