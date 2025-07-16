@@ -1,15 +1,35 @@
-## 📝 Description
+## 📌 Summary
 
-Please include a summary of the changes and the related problem:
+Explain what your pull request does. You can tick more than one scope below.
 
-- Related Problem: [Day XX - Problem Name]
-- Language used: [e.g., Python, TypeScript, PHP, etc.]
+### Scope of this PR
 
-## 📋 Checklist
+- [ ] 🧠 Add new solution(s)
+- [ ] ✅ Add or update test case(s)
+- [ ] 🏃 Add or update test runner(s)
+- [ ] 📄 Documentation changes (README, etc.)
+- [ ] 🛠️ Fix bug or improve existing feature
+- [ ] 🔧 Other (please describe below)
 
-- [ ] My code follows the repo's naming conventions (e.g., `dayXX/dayXXname.ext`)
-- [ ] I have tested my solution and it works as expected
+### Description
 
-## 💡 Additional Notes
+Please describe the changes and purpose of this pull request.
 
-(Optional) Any extra context, assumptions, or interesting approaches?
+Example:
+
+> Add Day 05 solution in Python  
+> Fix failing test case in day02.json  
+> Add Swift test runner
+
+---
+
+## 🧪 Checklist Before Requesting Review
+
+- [ ] I’ve tested my changes locally
+- [ ] My changes do not break existing workflows
+
+---
+
+## 🗒️ Additional Notes (Optional)
+
+Add any extra context, screenshots, or questions here.
